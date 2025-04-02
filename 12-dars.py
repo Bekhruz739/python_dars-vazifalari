@@ -6,11 +6,11 @@
 #for n in range(10):
 #    print(n+1)
     
-#son = 50
-#if son>=0:
-#    print("Musbat son")
-#else:
-#    print("Manfiy son")
+son = 50
+if son>=0:
+    print("Musbat son")
+else:
+    print("Manfiy son")
     
 #son = input("Istalgan son kiriting: ")
 #son=int(son)
@@ -112,5 +112,5 @@ if  mavjud_emas:
     for mahsulot in mavjud_emas:
         print(mahsulot)
 else:
-  print("Siz so'ragan barcha mahsulotlar do'konimizda bor")
+  print("Siz so'ragan barcha mahsulotlar do'konimizda bor qidirib o'tirmang")
    
